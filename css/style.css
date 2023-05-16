@@ -3,7 +3,65 @@
   column-gap: 50px;
 }
 
-.grid_items {
+.grid_items1 {
+background-color: black;
+color: antiquewhite;
+height: 50px;
+width: 50px;
+margin: 5px;
+grid-row-start: 1;
+grid-row-end: 3;
+}
+
+.grid_items2 {
+background-color: black;
+color: antiquewhite;
+height: 50px;
+width: 50px;
+margin: 5px;
+}
+
+.grid_items3 {
+background-color: black;
+color: antiquewhite;
+height: 50px;
+width: 50px;
+margin: 5px;
+}
+
+.grid_items4 {
+background-color: black;
+color: antiquewhite;
+height: 50px;
+width: 50px;
+margin: 5px;
+}
+
+.grid_items5 {
+background-color: black;
+color: antiquewhite;
+height: 50px;
+width: 50px;
+margin: 5px;
+}
+
+.grid_items6 {
+background-color: black;
+color: antiquewhite;
+height: 50px;
+width: 50px;
+margin: 5px;
+}
+
+.grid_items7 {
+background-color: black;
+color: antiquewhite;
+height: 50px;
+width: 50px;
+margin: 5px;
+}
+
+.grid_items8 {
 background-color: black;
 color: antiquewhite;
 height: 50px;
